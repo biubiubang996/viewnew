@@ -7,13 +7,14 @@
     "test": "npm run test"
   },
   "dependencies": {
-      "async": "~0.9.0",
-      "dxf-parsing": "^0.3.7",
-      "gm": "~1.17.0",
-      "underscore": "~1.7.0",
-      "xml2js": "~0.4.4",
-      "xmlbuilder": "^2.4.3"
-    },
+    "async": "~0.9.0",
+    "bi-chatnew-hive": "^1.0.1",
+    "dxf-parsing": "^0.3.7",
+    "gm": "~1.17.0",
+    "underscore": "~1.7.0",
+    "xml2js": "~0.4.4",
+    "xmlbuilder": "^2.4.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/biubiubang996/viewnew.git"
